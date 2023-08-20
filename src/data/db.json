@@ -1,0 +1,126 @@
+{
+  "transactions": [
+    {
+      "id": 3,
+      "title": "Project ",
+      "amount": "2000",
+      "type": "income",
+      "category": "2",
+      "date": "2022-01-22"
+    },
+    {
+      "id": 4,
+      "title": "Rent",
+      "amount": 1000,
+      "type": "income",
+      "category": "3",
+      "date": "2021-10-13"
+    },
+    {
+      "title": "test 22",
+      "amount": "2000",
+      "type": "expanse",
+      "category": "4",
+      "date": "2022-10-11",
+      "id": 6
+    },
+    {
+      "title": "test 2",
+      "amount": "40000",
+      "type": "income",
+      "category": "5",
+      "date": "2022-10-18",
+      "id": 7
+    },
+    {
+      "title": "cloth",
+      "amount": "300",
+      "type": "expanse",
+      "category": "2",
+      "date": "2022-10-21",
+      "id": 8
+    },
+    {
+      "title": "monthly save",
+      "amount": "1111",
+      "type": "income",
+      "category": "6",
+      "date": "2022-10-13",
+      "id": 9
+    },
+    {
+      "title": "Telegram stoks",
+      "amount": "30000",
+      "type": "expanse",
+      "category": "3",
+      "date": "2022-07-13",
+      "id": 10
+    },
+    {
+      "title": "test",
+      "amount": "500",
+      "type": "income",
+      "category": "7",
+      "date": "2022-10-21",
+      "id": 11
+    },
+    {
+      "title": "travel",
+      "amount": "900",
+      "type": "expanse",
+      "category": "3",
+      "date": "2023-08-14",
+      "id": 12
+    },
+    {
+      "title": "store",
+      "amount": "5000",
+      "type": "income",
+      "category": "3",
+      "date": "2023-08-08",
+      "id": 13
+    },
+    {
+      "title": "cafe",
+      "amount": "400",
+      "type": "income",
+      "category": "1",
+      "date": "2023-04-18",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Monthly incom"
+    },
+    {
+      "id": 3,
+      "name": "Investment"
+    },
+    {
+      "id": 4,
+      "name": "Home Needs"
+    },
+    {
+      "id": 5,
+      "name": "Bucket List"
+    },
+    {
+      "id": 6,
+      "name": "Savings"
+    },
+    {
+      "id": 7,
+      "name": "Freelance"
+    },
+    {
+      "id": 8,
+      "name": "Business"
+    }
+  ]
+}
